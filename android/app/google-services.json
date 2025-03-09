@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "563898510173",
+    "project_id": "chatchit-ed56a",
+    "storage_bucket": "chatchit-ed56a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563898510173:android:e4b591d9acc20e15cc56b4",
+        "android_client_info": {
+          "package_name": "com.chatchit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCILJj4bZmgzyolYqJ30sxcwcVSV5dw_ZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
